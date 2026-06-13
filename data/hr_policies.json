@@ -1,0 +1,112 @@
+{
+  "policies": [
+    {
+      "id": "POL-001",
+      "category": "Leave Policy",
+      "title": "Annual Leave / Paid Time Off (PTO)",
+      "content": "All full-time employees are entitled to 18 days of paid annual leave per calendar year. Part-time employees receive leave on a pro-rata basis. Leave must be approved by the direct manager at least 5 business days in advance for planned leave. Unused leave of up to 10 days can be carried forward to the next calendar year. Any remaining balance beyond 10 days will be forfeited. Leave encashment is permitted only upon resignation or retirement, up to a maximum of 30 days. Employees on probation (first 3 months) are not eligible for leave but may apply for unpaid leave in exceptional circumstances with HR approval."
+    },
+    {
+      "id": "POL-002",
+      "category": "Leave Policy",
+      "title": "Sick Leave",
+      "content": "Employees are entitled to 12 days of paid sick leave per calendar year. Sick leave beyond 3 consecutive days requires a medical certificate from a registered practitioner. Sick leave cannot be carried forward or encashed. If an employee exhausts their sick leave, they may apply for unpaid leave or use their annual leave balance. Employees must inform their manager and HR by 9:30 AM on the day of absence. Habitual sick leave patterns may be subject to review by HR and management."
+    },
+    {
+      "id": "POL-003",
+      "category": "Leave Policy",
+      "title": "Maternity and Paternity Leave",
+      "content": "Female employees are entitled to 26 weeks of fully paid maternity leave for the first two children. For subsequent children, maternity leave is 12 weeks paid. The employee must have completed at least 80 days of service in the 12 months preceding the expected delivery date. Male employees (paternity leave) are entitled to 5 days of paid paternity leave within 30 days of the child's birth. Adoption leave follows the same policy as maternity leave for the primary caregiver. Employees must notify HR at least 8 weeks before the expected delivery date and provide relevant documentation."
+    },
+    {
+      "id": "POL-004",
+      "category": "Leave Policy",
+      "title": "Public and National Holidays",
+      "content": "The company observes all 3 national holidays (Republic Day, Independence Day, Gandhi Jayanti) as mandatory paid holidays. Additionally, employees receive 8 optional/restricted holidays per year from a published list. Employees must apply for optional holidays through the HR portal at least 3 days in advance. If a public holiday falls on a weekend, a compensatory off is granted on the immediately preceding Friday or following Monday, as decided by management."
+    },
+    {
+      "id": "POL-005",
+      "category": "Compensation",
+      "title": "Salary Structure and Pay Components",
+      "content": "Employee compensation comprises: Basic Salary (40% of CTC), House Rent Allowance (50% of Basic for metro cities, 40% for non-metro), Special Allowance (variable), Medical Allowance (Rs. 1,250/month), Provident Fund contribution (12% of Basic by employer + 12% employee), and Gratuity (4.81% of Basic). Variable Pay / Performance Bonus is paid annually based on individual performance rating and company profitability. Salaries are credited on the last working day of each month. Payslips are available on the employee self-service portal by the 3rd of the following month."
+    },
+    {
+      "id": "POL-006",
+      "category": "Compensation",
+      "title": "Performance Appraisal and Increment Policy",
+      "content": "Performance appraisals are conducted annually in April. The appraisal cycle runs from January to December. Employees are rated on a 5-point scale: Outstanding (5), Exceeds Expectations (4), Meets Expectations (3), Partially Meets Expectations (2), and Below Expectations (1). Merit increments are effective from April 1st. Employees rated 5 receive 18-22% increment, rating 4 receives 12-16%, rating 3 receives 7-10%, rating 2 receives 2-4%, and rating 1 receives no increment. Employees on PIP (Performance Improvement Plan) are not eligible for increments."
+    },
+    {
+      "id": "POL-007",
+      "category": "Compensation",
+      "title": "Reimbursements and Expense Policy",
+      "content": "Business expenses must be submitted within 30 days of incurrence. All claims above Rs. 500 require original receipts. Travel reimbursements: employees in Grade A (Director+) are entitled to business class for flights above 2 hours; Grade B (Manager) economy class; Grade C (individual contributor) economy class. Meal allowance during official travel: Rs. 500/day for domestic travel. Mobile reimbursement: Rs. 1,000/month for roles requiring field work. Internet allowance: Rs. 500/month for WFH-approved employees. Expense claims must be approved by the direct manager before submission to Finance."
+    },
+    {
+      "id": "POL-008",
+      "category": "Onboarding",
+      "title": "New Employee Onboarding Process",
+      "content": "The onboarding process begins one week before the joining date with a pre-joining welcome kit sent via email. On Day 1: ID card creation, system access setup, HR orientation session (9 AM - 12 PM), and team introduction. Week 1: Completion of all compliance and policy training modules on the LMS portal. Week 2-4: Role-specific onboarding with the manager, including goal setting and buddy assignment. Probation period is 3 months for lateral hires and 6 months for freshers. During probation, performance is reviewed at 30-day, 60-day, and 90-day intervals. Confirmation is subject to satisfactory performance."
+    },
+    {
+      "id": "POL-009",
+      "category": "Onboarding",
+      "title": "Document Submission Requirements",
+      "content": "New employees must submit the following documents within 7 days of joining: (1) Educational certificates (10th, 12th, graduation, and post-graduation mark sheets and certificates), (2) Previous employment relieving letters and experience certificates, (3) Last 3 months' salary slips from previous employer, (4) Offer letter from previous employer, (5) PAN card copy, (6) Aadhaar card copy, (7) Passport-sized photographs (6 copies), (8) Bank account details for salary processing, (9) Emergency contact information form, (10) Medical fitness certificate. Failure to submit documents within the stipulated time may delay confirmation and benefits enrollment."
+    },
+    {
+      "id": "POL-010",
+      "category": "Work from Home",
+      "title": "Work from Home (WFH) Policy",
+      "content": "WFH is available to employees who have completed their probation period (minimum 3 months). Employees can work from home up to 2 days per week, subject to manager approval. Hybrid schedule (3 office days, 2 WFH days) is the standard model. WFH days cannot be on Mondays or Fridays without special approval to prevent extended long weekends. Employees must be reachable during core hours (10 AM - 5 PM IST) via Slack and MS Teams. Internet and workspace expenses for WFH are reimbursed as per the expense policy. WFH privilege can be revoked for poor performance or communication lapses."
+    },
+    {
+      "id": "POL-011",
+      "category": "Work from Home",
+      "title": "Remote Work Equipment Policy",
+      "content": "Full-time employees are provided with a laptop on Day 1. Accessories (mouse, keyboard, headset) are provided upon request with manager approval. Employees working from home can request an additional monitor after completing 6 months. All company equipment must be returned in good condition upon separation. Damage beyond normal wear and tear will be deducted from the final settlement. Employees must not use company devices for personal use beyond incidental browsing. Installation of unauthorized software is prohibited and subject to disciplinary action."
+    },
+    {
+      "id": "POL-012",
+      "category": "Separation",
+      "title": "Resignation and Notice Period",
+      "content": "Employees must submit a formal resignation in writing (email to manager + HR). Notice period: Probation period employees - 2 weeks; Employees up to 2 years of service - 30 days; Employees with 2-5 years - 60 days; Employees with 5+ years - 90 days. Notice period buyout is allowed with management and HR approval. During the notice period, employees must complete all knowledge transfer, handover documentation, and exit formalities. Early release requests are considered on a case-by-case basis. Garden leave may be granted for sensitive roles."
+    },
+    {
+      "id": "POL-013",
+      "category": "Separation",
+      "title": "Full and Final Settlement",
+      "content": "Full and Final (F&F) settlement is processed within 45 days from the last working day. F&F includes: unpaid salary up to the last working day, encashment of unused annual leave (max 30 days), gratuity (for employees with 5+ years of continuous service), and variable pay for the completed portion of the appraisal year (prorated). Deductions include: notice period shortfall (if applicable), outstanding loans or advances, cost of unreturned assets. The F&F statement is shared via email, and the amount is transferred to the registered bank account."
+    },
+    {
+      "id": "POL-014",
+      "category": "Code of Conduct",
+      "title": "Anti-Harassment and POSH Policy",
+      "content": "The company maintains a zero-tolerance policy towards sexual harassment in the workplace as per the Prevention, Prohibition and Redressal (POSH) Act, 2013. An Internal Complaints Committee (ICC) is constituted as required by law. Complaints must be submitted in writing to the ICC within 3 months of the incident. The ICC will complete the inquiry within 90 days. Both the complainant and respondent have the right to be heard. Complaints found to be malicious will also be subject to disciplinary action. Confidentiality is maintained throughout the process. Retaliation against a complainant is strictly prohibited."
+    },
+    {
+      "id": "POL-015",
+      "category": "Benefits",
+      "title": "Health Insurance and Group Medical Cover",
+      "content": "All confirmed employees and their dependents (spouse + up to 2 children) are covered under the Group Medical Insurance scheme. Coverage amount: Rs. 5 lakhs per family per year. Pre-existing diseases are covered from Day 1. The policy covers hospitalization, pre and post-hospitalization (30 and 60 days respectively), day-care procedures, ambulance charges up to Rs. 3,000, and maternity benefits (Rs. 50,000 for normal delivery, Rs. 75,000 for C-section). Employees can enhance coverage by paying an additional premium. Parents can be added to the policy at a subsidized rate. Dental and vision are not covered under the standard plan."
+    },
+    {
+      "id": "POL-016",
+      "category": "Benefits",
+      "title": "Learning and Development Benefits",
+      "content": "Each employee receives an annual Learning & Development (L&D) budget of Rs. 25,000. This can be used for online courses (Coursera, Udemy, LinkedIn Learning), certifications (AWS, GCP, PMP, CFA, etc.), workshops, and conferences. Requests must be submitted via the L&D portal with manager approval at least 15 days in advance. For certifications costing above Rs. 25,000, the company may sponsor up to 75% of the cost with a 12-month service bond. Employees leaving within the bond period must refund the sponsored amount on a pro-rata basis. L&D budget does not roll over to the next year."
+    },
+    {
+      "id": "POL-017",
+      "category": "IT and Security",
+      "title": "Data Security and Confidentiality Policy",
+      "content": "All employees must sign a Non-Disclosure Agreement (NDA) on their first day. Company data must not be shared with unauthorized parties or stored on personal devices or cloud accounts (Google Drive, Dropbox, personal email). All sensitive data must be handled as per the company's data classification policy (Public, Internal, Confidential, Restricted). Passwords must be changed every 90 days and must meet complexity requirements (minimum 8 characters, uppercase, lowercase, number, special character). VPN must be used when accessing company systems remotely. Security incidents must be reported to the IT helpdesk within 1 hour of detection."
+    },
+    {
+      "id": "POL-018",
+      "category": "Attendance",
+      "title": "Working Hours and Attendance Policy",
+      "content": "Standard working hours are 9 hours per day (including 1 hour lunch break), Monday to Friday. Core hours during which all employees must be available are 10 AM to 5 PM. Flexible start time is allowed between 8:30 AM and 10:30 AM. Attendance is marked via the biometric system or the digital attendance app for remote workers. Regularization of missed attendance must be done within 3 calendar days. More than 3 unexcused absences in a month will result in LOP (Loss of Pay) and may trigger a performance review. Overtime is not compensated monetarily but can be availed as compensatory off with manager approval."
+    }
+  ]
+}

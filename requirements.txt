@@ -1,0 +1,34 @@
+# HR Q&A Assistant — Python Dependencies
+# Install: pip install -r requirements.txt
+
+# ── Web UI ──────────────────────────────────────────────────────────────────────
+# Choose ONE of:
+streamlit>=1.35.0          # Option A: Streamlit (primary, per spec)
+# flask>=3.0.0             # Option B: Flask (if Streamlit unavailable)
+
+# ── LLM & Embeddings ────────────────────────────────────────────────────────────
+langchain>=0.2.0
+langchain-ollama>=0.1.0    # Ollama integration for LangChain
+langchain-community>=0.2.0 # Community integrations (vector stores, etc.)
+
+# ── Vector Store & Embeddings ────────────────────────────────────────────────────
+chromadb>=0.5.0            # Local persistent vector database
+sentence-transformers>=3.0.0  # all-MiniLM-L6-v2 embeddings (runs offline)
+
+# ── Document handling ────────────────────────────────────────────────────────────
+pypdf>=4.0.0               # PDF ingestion (for real policy PDFs)
+
+# ── Core (usually pre-installed) ─────────────────────────────────────────────────
+numpy>=1.26.0
+requests>=2.31.0
+
+# ── Ollama (install separately, not via pip) ─────────────────────────────────────
+# macOS:   brew install ollama
+# Linux:   curl -fsSL https://ollama.ai/install.sh | sh
+# Windows: https://ollama.ai/download
+#
+# Then:
+#   ollama serve
+#   ollama pull llama3.2        # recommended: fast, good quality
+#   ollama pull mistral         # alternative
+#   ollama pull phi3            # lightweight option
